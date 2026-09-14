@@ -12,7 +12,7 @@ export default function App() {
         {/* Barra de Navegación Superior */}
         <div style={{ display: 'flex', background: '#0f172a', padding: '0 2rem' }}>
             <div style={{ padding: '1rem', color: 'white', fontWeight: 'bold', marginRight: '2rem' }}>
-                Eduardo Labs
+                Eduardo ProbaLabs
             </div>
             <button 
                 onClick={() => setActiveTab('dice')}
